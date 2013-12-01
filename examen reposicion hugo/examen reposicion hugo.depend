@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1383608892 source:c:\users\isis\documents\github\programacionii-codeblocks\examen reposicion hugo\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

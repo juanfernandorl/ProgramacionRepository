@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1383259324 source:c:\users\isis\documents\github\programacionii-codeblocks\examen\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

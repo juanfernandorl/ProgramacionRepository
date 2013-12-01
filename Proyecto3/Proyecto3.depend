@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1384362531 source:c:\users\isis\documents\github\programacionii-codeblocks\proyecto3\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
