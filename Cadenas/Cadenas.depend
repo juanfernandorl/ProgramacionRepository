@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1386110989 source:c:\users\isis\documents\github\programacionii-codeblocks\cadenas\main.cpp
+	<iostream>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
